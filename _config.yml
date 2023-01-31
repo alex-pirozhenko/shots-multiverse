@@ -1,17 +1,13 @@
-title: Multiverse by HTML5 UP
+title: AlexP Photography
 author: João Neto
-email: joao@neto.pt
+email: shots@pirozhenko.me
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, my name is Alex. I'm an amateur photographer and outdoor enthusiast based
+  in California, and this is a gallery of my favorite shots. Look around, enjoy
+  the pictures, and leave a comment!
 
 social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+  instagram: alex.pi.photography
 
 # Build settings
 markdown: kramdown
